@@ -1,5 +1,5 @@
 # Twitter_Analysis
-SSDI
+
 Objective:
 This activity deals with text analysis of data pulled from twitter.Using this data, we answer a few important questions that helps us to get better insight into the collected data and derive meaning from it.
 
